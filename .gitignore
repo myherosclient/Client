@@ -1,0 +1,9 @@
+
+/Preloader/bin-debug/config/*
+/Preloader/bin-debug/history/*
+/Preloader/bin-debug/playerProductInstall.swf
+/Preloader/bin-debug/swfobject.js
+/Preloader/bin-release/config/*
+/Preloader/bin-release/history/*
+/Preloader/bin-release/playerProductInstall.swf
+/Preloader/bin-release/swfobject.js

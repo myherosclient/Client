@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameClass>
+	<Version ver="2013_10_07 pm1558" />
+	<Module file="DevLogin" md5="12345" />
+	<Module file="DevConsole" md5="12345" />
+</FrameClass>
